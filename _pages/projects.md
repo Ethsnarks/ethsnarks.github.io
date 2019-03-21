@@ -1,10 +1,9 @@
 ---
-permalink: /
+permalink: /projects/
 title: "Ethsnarks Projects"
 excerpt: "ETHSNARKS Projects"
 author_profile: false
 redirect_from: 
-  - /projects/
   - /projects.html
 ---
 
